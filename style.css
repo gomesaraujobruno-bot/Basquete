@@ -1,10 +1,11 @@
-body{
-    color:whitesmoke;
-    background:black;
+body {
+    color: whitesmoke;
+    background: black;
     margin: 2px;
+    font-family: "Work Sans", sans-serif;
 }
 
-header{
+header {
     border-bottom: solid 2px white;
     padding: 20px;
     font-size: 32px;
@@ -12,7 +13,7 @@ header{
 }
 
 
-section{
+section {
     background: black;
     padding-bottom: 80px;
     padding-top: 80px;
@@ -20,6 +21,6 @@ section{
     justify-content: center;
 }
 
-.chamada-texto{
+.chamada-texto {
     margin-right: 5%;
 }
